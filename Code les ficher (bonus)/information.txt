@@ -1,0 +1,11 @@
+
+
+Les information d'empolyee  - bilal - sont :
+
+Le nom  est    : bilal
+
+Le Prenom  est : ben
+
+Le salaire  est : 5000.00 DH
+
+
